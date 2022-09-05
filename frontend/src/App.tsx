@@ -1,5 +1,4 @@
 import Header from "./components/Header";
-import NotificationButton from "./components/NotificationButton";
 import SalesCard from "./components/SalesCard";
 
 function App() {
@@ -13,7 +12,6 @@ function App() {
                     </div>
                 </section>
             </main>
-            <NotificationButton />
         </>
     )
 }
